@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+.error-msg{
+    color:red;
+}
+
+.disable{
+    cursor: not-allowed;
+}
+
+.snackbar-success {
+    border-radius: 2px;
+    margin: 24px;
+    bottom: -100px;
+    color: black;
+    background-color: rgba(9, 95, 255, 0.952);
+    padding: 200px;
+  }
+
+  .snackbar-error{
+    /* min-width: 288px;
+    max-width: 568px;
+    display: inline-flex; */
+    border-radius: 2px;
+    margin: 24px;
+    bottom: -100px;
+    color: black;
+    background-color: rgba(218, 58, 58, 0.849);
+    padding: 200px;
+  }
